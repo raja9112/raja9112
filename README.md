@@ -23,13 +23,7 @@ Here are some of my notable projects:
 ### Personal Portfolio
 - **link:** https://rajarajan-portfolio.vercel.app/
 - **Description:** Successfully designed, developed, and deployed a personal portfolio website to showcase my skills, projects, and professional experience, demonstrating expertise in web development, cloud services, and secure deployment practices.
-- **Technologies Used:**
--- Frontend: HTML5, CSS3, JavaScript, Bootstrap for a sleek, responsive UI.
--- Backend: Django for dynamic content management, form handling, and URL routing.
--- Cloud Services:
---- AWS S3: Used AWS S3 for efficient, scalable storage and delivery of static files.
---- AWS IAM: Configured IAM roles and policies to secure and manage access to S3, ensuring only authorized actions.
--- Version Control: Managed with GitHub for efficient code versioning and collaboration.
+- **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, Python, Django, MySQL, AWS S3, AWS IAM, Vercel
 - **Repository:** https://github.com/raja9112/Portfolio.git
 
 ### [Ecommerce Web Application Using Python and Django]
