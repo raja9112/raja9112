@@ -26,7 +26,7 @@ Here are some of my notable projects:
 - **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, Python, Django, MySQL, AWS S3, AWS IAM, Vercel
 - **Repository:** https://github.com/raja9112/Portfolio.git
 
-### [Ecommerce Web Application Using Python and Django]
+### Ecommerce Web Application Using Python and Django
 - **Description:** Led end-to-end development of a highly successful ecommerce website, driving online sales and enhancing user experiences. Developed key features including product catalog management, secure payment gateways, and streamlined checkout processes. Utilized Django framework for efficient backend development and implemented responsive design using HTML, CSS, and JavaScript. Passionate about leveraging technology to create engaging online shopping experiences that generate measurable business impact.
 - **Technologies Used:** HTML, CSS, Bootstrap, JavaScript, Python, Django, PostgresSQL, DBeaver, AWS.
 - **Repository:** https://github.com/raja9112/e-commerce-website-using-Django.git
